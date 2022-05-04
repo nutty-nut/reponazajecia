@@ -20,4 +20,4 @@ for i in range(liczba,0,-1):
     print(i)
     time.sleep(1)
 print("O\nKONIEC")
-print("Niespodzianka")
+print("Odpowiednie miesjce")
