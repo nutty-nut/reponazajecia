@@ -10,7 +10,7 @@ elif komp == 3:
     print("wybór komputera - nożyce")
 if komp == czlowiek: print("rowno, remisy")
 elif czlowiek==1 and komp==2 or czlowiek==2 and komp==3 or czlowiek==3 and komp==1: print("WYGRYWASZ TY")
-else: print("WYGRYWA KOMPUTER, nie ty :<")
+else: print("WYGRYWA KOMPUTER, haha przegrałeś")
 
 # ZADANIE12
 print("Odliczanie od podanej liczby sekund do zera")
