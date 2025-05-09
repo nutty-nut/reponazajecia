@@ -1,8 +1,14 @@
 **Co to?**
+
 Glitchers to pixelartowa gra stworzona w Pygame, inspirowana klasykami retro jak Space Invaders, Snake i Tetris. Gracz przemierza zglitchowane wersje tych gier, gdzie zasady zostały zaburzone przez byt GL!TCH. Każdy poziom to unikalna minigra z autorskim twistem. Glitchers łączy nostalgię z nową mechaniką, glitchowymi efektami i fabułą o walce z błędem z przyszłości.
+
+**Uruchomienie gry**
+
+Aby rozpocząć grę, należy włączyć plik "menu" w dowolnym edytorze kodu. Aby zacząć od poszczególnego poziomu, należy włączyć wybrany poziom z folderu "Levels" w dowolnym edytorze kodu. 
 
 
 **Dla kogo?**
+
 Poznajcie Łukasza - Łukasz ma 44 lata, grafik komputerowy i miłośnik retro-gier. Wychował się na platformówkach z Pegasusa i automatowych hitach z lat 80., takich jak Pac-Man, Contra czy Tetris. Dziś pracuje zdalnie i wieczorami szuka sposobu, by znów poczuć magię gier swojego dzieciństwa. 
 _„Nowe gry wyglądają pięknie, ale nie mają tego klimatu. Wszystko jest zbyt gładkie, zbyt wymuskane. 
 Tęsknię za czasami, gdy gry były dziwne, glitchowate i wciągające.”_
@@ -16,17 +22,20 @@ Tęsknię za czasami, gdy gry były dziwne, glitchowate i wciągające.”_
 GL!TCHTRS to odpowiedź na jego potrzeby – gra, która nie tylko cytuje przeszłość, ale ją łamie i rekonstruuje. Dla Łukasza to nie tylko zabawa – to emocjonalna podróż przez światy, o których wydaje mu się, że je zna, ale teraz go testują.
 
 **W GLITCHERS**
+
 - Reinterpretujemy mechaniki gier retro – tworząc zupełnie nowe zasady w znanym świecie
 - Gra łamie schematy, zmusza gracza do myślenia „na odwrót”
 - Każdy poziom to unikalna mechanika, ale spójna narracyjnie i gameplayowo część większej historii
 - Zmienność zasad (np. zmiana grawitacji, glitchujące kolory, cofanie czasu) wzmacnia immersję i oryginalność
 
 **Zastosowana AI**
+
 - Wygenerowana wcześniej muzyka (AI Song Generator)
 - Wygenerowane wcześniej tło (chat GPT)
 - Kod stworzony z pomocą chatGPT.
 
 **Możliwości rozwoju**
+
 - Stworzenie  większej liczby poziomów (potencjalna opcja zagrania z pozycji menu w wygenerowany przez AI nowy poziomom na podstawie stworzonej bazy)
 - Dopracowanie fabuły i tekstów pojawiających się między poziomami
 - Umożliwienie wybrania wygranych wcześniej poziomów z pozycji menu
@@ -35,6 +44,7 @@ GL!TCHTRS to odpowiedź na jego potrzeby – gra, która nie tylko cytuje przesz
 - Dopracowanie grafiki
 
 **Opis poziomów**
+
 Level 1.: 🚀 Galaxy Destroyers 
 * Prawie kropka w kropkę gra Space Invaders, z randomowo poruszającymi się kosmitami, zamiast w grupie -> jako wprowadzenie do fabuły.
 * Po paru strzałach wybrany kosmita glitchuje się i przemieszcza na środek. Każdy strzał w niego powoduje, że się powiększa, aż „pochłania” całą planszę.
