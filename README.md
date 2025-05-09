@@ -10,6 +10,7 @@ Aby rozpocząć grę, należy włączyć plik "menu" w dowolnym edytorze kodu. A
 **Dla kogo?**
 
 Poznajcie Łukasza - Łukasz ma 44 lata, grafik komputerowy i miłośnik retro-gier. Wychował się na platformówkach z Pegasusa i automatowych hitach z lat 80., takich jak Pac-Man, Contra czy Tetris. Dziś pracuje zdalnie i wieczorami szuka sposobu, by znów poczuć magię gier swojego dzieciństwa. 
+
 _„Nowe gry wyglądają pięknie, ale nie mają tego klimatu. Wszystko jest zbyt gładkie, zbyt wymuskane. 
 Tęsknię za czasami, gdy gry były dziwne, glitchowate i wciągające.”_
 
@@ -33,6 +34,7 @@ GL!TCHTRS to odpowiedź na jego potrzeby – gra, która nie tylko cytuje przesz
 - Wygenerowana wcześniej muzyka (AI Song Generator)
 - Wygenerowane wcześniej tło (chat GPT)
 - Kod stworzony z pomocą chatGPT.
+- 
 
 **Możliwości rozwoju**
 
